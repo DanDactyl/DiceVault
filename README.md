@@ -1,4 +1,4 @@
-# DiceVault Core — Option A
+# DiceVault Core
 
 Offline dice → BIP39 recovery phrase tool.
 
