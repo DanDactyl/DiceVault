@@ -40,7 +40,14 @@ Offline dice → BIP39 recovery phrase tool.
 Windows (or any general OS) may use swap, crash dumps, or already-present malware. DiceVault cannot fully control that. For high-value keys, prefer a dedicated offline machine or seed generation on audited hardware.
 
 ## License
-MIT (or your chosen license) — no warranty.
+MIT — see the `LICENSE` file in the repository and in `source.zip`. No warranty.
 
 ## Contact
-Issues / review: [your GitHub repo URL]
+Issues and review: https://github.com/DanDactyl/DiceVault
+
+## Support
+If this tool is useful, tips are welcome (optional):
+
+`bc1qtllfee0yh9wzafm5rd336ryue2qjjd3cplv9pm`
+
+No account, no pressure. The software stays free and open either way.
